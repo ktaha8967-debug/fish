@@ -1,0 +1,201 @@
+Bilkul — agar tum normal fish-selling website nahi, balki ek cinematic 3D interactive fishing experience banana chahte ho, to pehle video ka concept lock karna best rahega. Website ka hero section aisa ho sakta hai ke user ko lage woh literally paani ke andar fishing experience kar raha hai.
+
+🎬 Main Video Concept — “Dive Into The Catch”
+
+Scene 1 — Above Water / Hero
+
+Screen par cinematic lake/ocean environment.
+Camera water ke bilkul upar slowly move kare.
+Halki waves, sunlight reflections, mist.
+Background mein ek fishing boat/shore ka subtle silhouette.
+Center mein website ka logo/title.
+Scroll karte hi camera dheere-dheere water surface ki taraf jaye.
+
+Scene 2 — Dive Underwater
+
+Jaise hi user scroll kare, camera water ke andar dive kare.
+Surface upar chhoot jaye.
+Sun rays water ke andar penetrate kar rahi hon.
+Bubbles, particles, aquatic plants aur rocks.
+Different fish realistically swim kar rahi hon.
+Camera ek beautiful large fish ko follow kare.
+
+Scene 3 — The Fish
+
+Camera fish ke saath swim kare.
+Fish suddenly turn kare aur rocks/plants ke peeche chali jaye.
+Camera usko follow kare.
+Thoda suspense create ho.
+Background music slow cinematic ho.
+
+Scene 4 — Fishing Line Enters
+
+Suddenly upar se fishing line water mein enter ho.
+Hook/bait slowly fish ke paas aaye.
+Fish bait ko notice kare.
+Camera close-up mein fish ki movement show kare.
+Fish bait ko bite kare.
+
+Scene 5 — THE CATCH 🎣
+
+Bite ke moment par line suddenly tight ho.
+Fish rapidly swim kare.
+Camera shake + bubbles + water particles.
+Fishing rod upar se bend hoti hui nazar aaye.
+Fish ko surface ki taraf pull kiya jaye.
+
+Scene 6 — Back Above Water
+
+Camera fish ke saath surface ki taraf rapidly travel kare.
+Water break effect.
+Camera underwater se bahar nikle.
+Huge splash.
+Fisherman rod ko pull kar raha ho.
+Fish water se bahar jump kare.
+
+Scene 7 — Product Reveal
+Yahan tumhari actual website/business branding enter kare.
+
+Fish freeze/slow motion mein ho aur screen transition kare:
+
+“THE PERFECT CATCH STARTS HERE.”
+
+Phir buttons:
+
+EXPLORE FISH →
+START FISHING →
+
+🔥 Aur Scenes Jo Website Ko Next-Level Bana Sakte Hain
+1. 🐋 “Deep Ocean”
+
+User scroll karta jaye aur camera progressively deeper jaye:
+
+Surface → Reef → Deep Water → Dark Ocean → Giant Fish
+
+Last mein ek massive fish darkness se slowly emerge kare.
+
+2. 🌊 “Follow The Fish”
+
+Ek specific fish ko website ka main character bana do.
+
+Scroll:
+
+Fish swimming → camera follows → fish escapes → camera chases → fish enters cave → cave opens into massive underwater world.
+
+Ye bohot cinematic lagega.
+
+3. 🎣 “The Hook Journey”
+
+Is concept mein camera hook ke saath travel karega:
+
+Hook:
+
+Boat → Water Surface → Underwater → Fish → Bite → Pull → Surface
+
+Isko product/service sections ke saath synchronize kiya ja sakta hai.
+
+4. 🐠 “Underwater World Changes With Scroll”
+
+Har scroll section par environment change:
+
+Section 1: Shallow blue water
+↓
+Section 2: Coral reef
+↓
+Section 3: Kelp forest
+↓
+Section 4: Rocky underwater cave
+↓
+Section 5: Deep dark ocean
+↓
+Section 6: Giant fish
+↓
+Section 7: Surface + catch
+
+Isse website storytelling website ban jayegi.
+
+5. ⚡ “Fish Chase”
+
+Ek predator fish choti fish ko chase kar rahi ho.
+
+Camera chase ke saath move kare.
+
+Phir suddenly fishing hook scene mein enter kare aur entire chase sequence change ho jaye.
+
+Ye thoda National Geographic / cinematic documentary style feel dega.
+
+6. 🏆 “The Legendary Catch”
+
+Website start:
+
+“Some catches are remembered forever.”
+
+Camera deep underwater jata hai.
+
+Normal fish.
+
+Phir gradually ek rare massive fish appear hoti hai.
+
+Camera uske around 360° rotate karta hai.
+
+Fishing line enters.
+
+Fish bites.
+
+Huge struggle.
+
+Finally surface par catch.
+
+Then:
+
+“Find Your Next Catch.”
+
+Ye premium fishing brand ke liye killer hero section ho sakta hai.
+
+💎 Meri Recommendation
+
+Tum ek single continuous video mat banao jo 2–3 minute ki ho.
+
+Better approach:
+
+8–12 short cinematic sequences banao aur website mein scroll ke according unko transition karao.
+
+Example:
+
+SCROLL 0%
+↓
+Lake / Boat
+↓
+SCROLL 15%
+↓
+Dive underwater
+↓
+SCROLL 30%
+↓
+Fish swimming
+↓
+SCROLL 45%
+↓
+Hook enters
+↓
+SCROLL 60%
+↓
+Fish bites
+↓
+SCROLL 75%
+↓
+Fight / Rod bends
+↓
+SCROLL 90%
+↓
+Fish reaches surface
+↓
+SCROLL 100%
+↓
+Brand / Products / CTA
+
+Isse scroll-controlled cinematic website banegi, jahan user ko lagega ke woh khud story control kar raha hai.
+
+Aur ek important cheez: video ko realistic 3D cinematic rakho, cartoonish nahi. Water physics, caustic lighting, bubbles, particles, fish movement aur camera motion realistic hon — tab website genuinely “dhaso” lagegi.
+
+Agar tum chaho to main ab tumhare liye poori 60–90 second ki video ka scene-by-scene AI video generation prompt bana sakta hoon — har scene ka camera angle, fish type, water environment, lighting, transition, duration aur next-scene continuity ke saath, taake tum directly video generate kar sako.
